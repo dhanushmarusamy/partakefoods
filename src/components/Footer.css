@@ -1,0 +1,38 @@
+.sample4{
+    /* padding-top: 10px; */
+    margin-left: 10px;
+    /* color: azure; */
+}
+.sample5{
+    /* padding-top: 30px; */
+    margin-left: 80px;
+    /* /* color: azure; */
+}
+.sample6{
+    /* padding-top: 30px; */
+
+}
+.f24{
+    /* padding-top: 15px; */
+
+    border-bottom: 5px solid whitesmoke;
+    width: fit-content;
+}
+.sample8{
+background-color: lightseagreen;
+}
+
+.cookie1{
+    position: relative;
+    top:254px;
+    /* right:40px; */
+    right:47%;
+    /* width: 250px; */
+}
+.cookie2{
+    position: relative;
+    /* margin-left: 71%; */
+    left:300px;
+   overflow: hidden;
+    /* padding-top: 70px; */
+}

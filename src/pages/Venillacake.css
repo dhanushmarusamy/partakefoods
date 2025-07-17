@@ -1,0 +1,154 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    border-bottom: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    right: 0%;
+    /* overflow: hidden; */
+    scroll-behavior: smooth;
+}
+.item1{
+    display: flex;
+    gap: 15px;
+    
+}
+.p1{
+    color: darkblue;
+    /* font-size: 40px; */
+    /* font-style: italic; */
+    font-family:'Times New Roman', Times, serif;
+}
+.item2 li{
+    
+    gap: 15px;
+    padding-top: 25px;
+    margin-left: 25px;
+  
+}
+li a{
+    text-decoration: none;
+    color: darkcyan;
+    font-size: 20px;
+}
+.k1{
+    border-bottom: 3px solid darkblue;
+    width: fit-content;
+}
+.k2{
+    border-bottom: 3px solid darkblue;
+    /* width: fit-content; */
+}
+.k4{
+      border-bottom: 3px solid darkblue;
+    /* padding-left: 20px; */
+}
+.k5{
+      border-bottom: 3px solid darkblue;
+    /* padding-left: 20px; */
+}
+
+.bbbb{
+    position: relative;
+    left: 10px;
+}
+.k7{
+    border-radius: 50%;
+    /* background-color: aquamarine; */
+}
+.k8{
+    border-radius: 50%;
+    padding-top: 10px;
+    /* background-color: aquamarine; */
+}
+.k10{
+    border-radius: 50%;
+       padding-top: 10px;
+    /* background-color: aquamarine; */
+}
+.k11{
+       padding-top: 10px;
+    border-radius: 50%;
+    /* background-color: aquamarine; */
+}
+.k12{
+       padding-top: 10px;
+    border-radius: 50%;
+    /* background-color: aquamarine; */
+}
+.k13{
+       padding-top: 10px;
+    border-radius: 50%;
+    padding-bottom: 20px;
+    /* background-color: aquamarine; */
+}
+.item8 h4{
+    text-align: center;
+    padding-top: 20px;
+}
+.f14{
+    /* background-color: rgb(90, 231, 224); */
+}
+.item8 h2{
+    text-align: center;
+    /* font-size: 70px; */
+    /* padding-top: 50px; */
+    /* height: 60px; */
+}
+
+.f16{
+    background-color: darkcyan;
+}
+.container5{
+    background-color:rgb(235, 187, 194);
+}
+.k14{
+    color: darkblue;
+}
+.k16{
+    color: darkblue;
+}
+.k17 {
+    padding-top: 5px;
+    border-bottom: 3px solid lightseagreen;
+    width: fit-content;
+}
+.k19{
+    padding-top: 10px;
+}
+.K20{
+    color: darkblue;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.k21{
+    padding: 5px;
+    color: white;
+    background-color: darkcyan;
+    margin-left: 130px;
+}
+.k22{
+    color: darkblue;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.sample4{
+    padding-top: 30px;
+    margin-left: 10px;
+    /* color: azure; */
+}
+.sample5{
+    padding-top: 30px;
+    margin-left: 80px;
+    /* /* color: azure; */
+}
+.sample6{
+    padding-top: 30px;
+
+}
+.f24{
+    /* padding-top: 15px; */
+
+    border-bottom: 5px solid whitesmoke;
+    width: fit-content;
+}

@@ -1,0 +1,131 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    border-bottom: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    right: 0%;
+    scroll-behavior: smooth;
+}
+.item1{
+    display: flex;
+    gap: 15px;
+    
+}
+.N{
+    background-color: rgb(211, 226, 241);
+}
+.p1{
+    color: whitesmoke;
+    /* font-size: 40px; */
+    /* font-style: italic; */
+    font-family:'Times New Roman', Times, serif;
+}
+.p1{
+    color: whitesmoke;
+    /* font-size: 40px; */
+    /* font-style: italic; */
+    font-family:'Times New Roman', Times, serif;
+}
+.p2{
+    padding-top: 10%;
+    font-size: 60px;
+    color: whitesmoke;
+}
+.p3{
+    font-size: 20px;
+    color: whitesmoke;
+    padding-top: 38%;
+    padding-bottom: 40px;
+}
+.container0{
+    /* background-image: url(img1.webp); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+     /* padding-bottom: 150px; */
+    
+    background-position: center;
+    height: 100%;
+}
+.item2 li{
+    
+    gap: 15px;
+    padding-top: 25px;
+    margin-left: 25px;
+  
+}
+li a{
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 20px;
+}
+.sample1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 80px;
+}
+
+.item8 h2{
+    text-align: center;
+    /* font-size: 70px; */
+    /* padding-top: 50px; */
+    /* height: 60px; */
+}
+.item8 h4{
+    text-align: center;
+    padding-top: 20px;
+}
+.f14{
+    overflow: hidden;
+    /* background-color:rgb(17, 224, 224); */
+}
+
+
+.f16{
+    background-color: darkcyan;
+}
+.f17{
+    padding-left: 30px;
+    color: whitesmoke;
+    padding-top: 30px;
+}
+.f18{
+     padding-top: 30px;
+     padding-left: 20px;
+     color: whitesmoke;
+}
+.f19 h2{
+    color: whitesmoke;
+}
+.f23{
+    color: whitesmoke;
+}
+.F24{
+    color: whitesmoke;
+   
+}
+.f23,.F24{
+    /* padding-top: 15px; */
+
+    border-bottom: 3px solid white;
+    width: fit-content;
+}
+.f24{
+    padding-top: 30px;
+}
+.sample4{
+    /* padding-top: 10px; */
+    margin-left: 90px;
+    /* color: azure; */
+}
+.sample5{
+    /* padding-top: 10px; */
+    margin-left: 80px;
+    /* /* color: azure; */
+}
+.sample6{
+    padding-top: 30px;
+
+}
